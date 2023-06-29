@@ -1,0 +1,4 @@
+org\geekster\MailHandler.class
+org\geekster\MailMetaData.class
+org\geekster\CustomizedMailAuthentication.class
+org\geekster\Main.class
